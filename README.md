@@ -31,7 +31,7 @@ Asegúrate de tener Node.js instalado en tu máquina. Puedes descargarlo desde [
 
 ### Ejecutar la Aplicación
 
-Para ejecutar la aplicación, instalar la extension live server o abrir el archivo en un navegador
+Para ejecutar la aplicación, abrir el archivo en un navegador
 
 ### Uso
 
