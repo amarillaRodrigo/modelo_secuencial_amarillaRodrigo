@@ -1,0 +1,14 @@
+{
+  "name": "tensorflow-js-project",
+  "version": "1.0.0",
+  "description": "A project to train a TensorFlow.js model for the formula y = 2x + 6.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
